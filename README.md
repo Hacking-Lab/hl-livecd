@@ -1,20 +1,15 @@
-# Kali Linux based LiveCD for Hacking-Lab
-This XFCE livecd is based on the official (latest) Kali Linux with some Hacking-Lab extensions. You can use a native Kali Linux instead of this distro. 
+# Hacking-Lab LiveCD Installation
+The Hacking-Lab LiveCD is based on the official (latest) Kali Linux. It comes with a pre-configured XFCE desktop with some additional Hacking-Lab extensions. 
 
-## Installation Guides in ENGLISH, GERMAN, FRENCH
-* Markdown [English](./guides/install-livecd-en.md) [German](./guides/install-livecd-de.md) [French](./guides/install-livecd-fr.md)
-* PDF [English](./guides/install-livecd-en.pdf) [German](./guides/install-livecd-de.pdf) [French PDF](./guides/install-livecd-fr.pdf)
+## Installation
+Please follow the livecd installation instructions in ENGLISH, GERMAN or FRENCH langugage. 
 
-## Booting the LiveCD
-![Boot](./img/lcd1.png)
+* ENGLISH [Markdown](./guides/install-livecd-en.md) or [PDF](./guides/install-livecd-en.pdf)
+* GERMAN: [Markdown](./guides/install-livecd-de.md) or [German](./guides/install-livecd-de.pdf) 
+* FRENCH: [Markdown](./guides/install-livecd-fr.md) or [French PDF](./guides/install-livecd-fr.pdf)
 
-* Please use the username `hacker` with the password `compass`. 
-* This use is in the sudo user group. 
-* Gain root by entering `sudo -i` in a terminal
 
-![Boot](./img/lcd2.png)
-
-* This is how the XFCE Desktop looks like
-* Original Kali Linux with some HL extensions
+## Screenshot
 
 ![Boot](./img/lcd3.png)
+
