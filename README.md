@@ -1,5 +1,5 @@
-# Hacking-Lab LiveCD Installation
-The Hacking-Lab LiveCD is based on the official (latest) Kali Linux. It comes with a pre-configured XFCE desktop with some additional Hacking-Lab extensions. 
+# Hacking-Lab LiveCD
+The Hacking-Lab LiveCD is based on the official (latest) Kali Linux. It comes with a pre-configured XFCE desktop and some usefull additional Hacking-Lab extensions. 
 
 ## Installation
 Please follow the livecd installation instructions in ENGLISH, GERMAN or FRENCH langugage. 
