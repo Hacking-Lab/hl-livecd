@@ -10,6 +10,9 @@ Please follow the livecd installation instructions in ENGLISH, GERMAN or FRENCH 
 
 
 ## Screenshot
+![Boot](./img/livecd3.png)
 
-![Boot](./img/lcd3.png)
+## OpenVPN HL 2.0
+You can connect to our vulnerable systems using [OpenVPN](./openvpn/OpenVPN.md), if you need a reverse-shell from the vulnerable lab to your computer. 
 
+**IMPORTANT** [OpenVPN](./openvpn/OpenVPN.md) requires you to be authenticated on one of our HL2.0 web applications. Without being authenticated, your IP will not be allowed to [OpenVPN](./openvpn/OpenVPN.md) into our systems. 
