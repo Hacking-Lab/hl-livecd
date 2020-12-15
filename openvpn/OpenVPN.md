@@ -44,12 +44,12 @@ tls-client
 ca vuln.land_ca_chain.crt
 ```
 
-You will find `Hacking-Lab-2.0.credentials` and `land_ca_chain.crt` in this repo. 
+You will find `Hacking-Lab-2.0.credentials` and `land_ca_chain.crt` in this repo. You **do not** need to change the credentials in the file. The credentials are the same for every user.
 
 [Repo Files](./)
 
 
-**IMPORTANT** we will change the HL PW regurarely and keep this repo updated with the recent password. 
+**IMPORTANT** we will change the HL PW regurarely and keep this repo updated with the recent password.
 
 
 
