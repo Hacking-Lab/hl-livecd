@@ -22,12 +22,12 @@ Please follow the livecd installation instructions in ENGLISH, GERMAN or FRENCH 
 If you need a reverse-shell from one of the vulnerable services back to your local computer, you must connect to our vulnerable systems using [OpenVPN](https://github.com/Hacking-Lab/hl2-openvpn-ost.ch). The vulnerable services are firewalled and therefore you cannot connect back to an internet ip address. 
 
 ## Reverse Shell Video
-* https://www.hacking-lab.com/blog-entries/2
+* https://www.hacking-lab.com/blog/reverse-shell-vpn
 
 **IMPORTANT** You must be authenticated to one of our HL2.0 web applications. Without being authenticated, VPN will not work. 
 
 ## More Information
-Please visit https://www.hacking-lab.com/blog-entries to learn more about using Hacking-Lab. 
+Please visit https://www.hacking-lab.com/blog/ to learn more about using Hacking-Lab. 
 
 
 
