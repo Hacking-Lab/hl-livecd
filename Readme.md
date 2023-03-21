@@ -9,8 +9,8 @@ Please follow the Kookarai Pentesting Linux installation instructions in ENGLISH
 * FRENCH: [Markdown](./guides/install-kookarai-fr.md) or [French PDF](./guides/install-kookarai-fr.pdf)
 
 
-## Screenshot Hacking-Lab Desktop
-![Boot](./img/livecd.png)
+## Screenshot Kookarai Pentesting Linux Desktop
+![Boot](./img/kookarai.png)
 
 ## Login Credentials
 * Username = `hacker`
