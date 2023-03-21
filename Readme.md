@@ -4,9 +4,9 @@ The Hacking-Lab Kookarai Pentesting Linux is based on Kali Linux. It comes with 
 ## Installation
 Please follow the Kookarai Pentesting Linux installation instructions in ENGLISH, GERMAN or FRENCH langugage. 
 
-* ENGLISH [Markdown](./guides/install-livecd-en.md) or [PDF](./guides/install-livecd-en.pdf)
-* GERMAN: [Markdown](./guides/install-livecd-de.md) or [German](./guides/install-livecd-de.pdf) 
-* FRENCH: [Markdown](./guides/install-livecd-fr.md) or [French PDF](./guides/install-livecd-fr.pdf)
+* ENGLISH [Markdown](./guides/install-kookarai-en.md) or [PDF](./guides/install-kookarai-en.pdf)
+* GERMAN: [Markdown](./guides/install-kookarai-de.md) or [German](./guides/install-kookarai-de.pdf) 
+* FRENCH: [Markdown](./guides/install-kookarai-fr.md) or [French PDF](./guides/install-kookarai-fr.pdf)
 
 
 ## Screenshot Hacking-Lab Desktop
