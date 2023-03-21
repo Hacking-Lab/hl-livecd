@@ -2,7 +2,7 @@
 The Hacking-Lab LiveCD is based on Kali Linux. It comes with a pre-configured XFCE desktop and some usefull additional Hacking-Lab extensions. 
 
 ## Installation
-Please follow the livecd installation instructions in ENGLISH, GERMAN or FRENCH langugage. 
+Please follow the Kookarai Pentesting Linux installation instructions in ENGLISH, GERMAN or FRENCH langugage. 
 
 * ENGLISH [Markdown](./guides/install-livecd-en.md) or [PDF](./guides/install-livecd-en.pdf)
 * GERMAN: [Markdown](./guides/install-livecd-de.md) or [German](./guides/install-livecd-de.pdf) 
